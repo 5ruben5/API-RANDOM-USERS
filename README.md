@@ -8,6 +8,9 @@
 
 Información que se muestra: Imagen / Nombre del Usuario / Correo / Calendario / Ubicación / Telefono / Contraseña.
 
+![Uploading image.png…]()
+
+
 ## Autor
 
 - [Rubén Martínez Martínez](https://github.com/5ruben5)
