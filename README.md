@@ -8,7 +8,8 @@
 
 Información que se muestra: Imagen / Nombre del Usuario / Correo / Calendario / Ubicación / Telefono / Contraseña.
 
-![Uploading image.png…]()
+![image](https://github.com/5ruben5/API-RANDOM-USERS/assets/122776183/1f8edb20-65b2-4491-87b2-8c6d6100ba0f)
+
 
 
 ## Autor
